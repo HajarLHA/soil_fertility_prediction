@@ -111,7 +111,7 @@ Pre-trained models used:
 3. **Ideation** – Brainstorm possible solutions and modeling approaches.  
 4. **Implementation** – Develop the app: ML models, Flask web app, frontend & backend workflow.
 
-For a detailed presentation of our Design Thinking process, see the included PDF: [Design Thinking Presentation](docs/Design_Thinking.pdf)
+For a detailed presentation of our Design Thinking process, see the included PDF: [Design Thinking Presentation](docs/design_thinking.pdf)
 
 ---
 
