@@ -45,7 +45,7 @@ git clone https://github.com/HajarLHA/soil_fertility_prediction.git
 cd soil_fertility_prediction
 ```
 
-2) **Create & activate a virtual environment (recommended)**
+2) **Create & activate a virtual environment**
 ```bash
 python -m venv .venv
 # Windows
@@ -138,7 +138,7 @@ Adjust as needed:
 
 ---
 
-## 🗺️ Roadmap (Optional)
+## 🗺️ Roadmap
 
 Future improvements and features for the app may include:  
 - Exporting predictions as **CSV or PDF**  
