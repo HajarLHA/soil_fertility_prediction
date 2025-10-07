@@ -128,13 +128,6 @@ Adjust as needed:
 
 ---
 
-## ✅ Health Check
-- Ensure model files exist in the root and paths are correct.  
-- Verify feature names/order match the scaler and models.  
-- Check Python/package versions against `requirements.txt`.  
-
----
-
 ## 🗺️ Roadmap
 
 Future improvements and features for the app may include:  
